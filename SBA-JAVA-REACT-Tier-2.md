@@ -4,7 +4,7 @@
 
 **Requirements**:
 
-1. **User Authentication**: Implement a secure user authentication system that allows users to sign up, log in, and log out. The system should store user data securely in the SQL database and utilize JSON Web Tokens (JWT) for session management.
+1. **User Authentication**: Implement a secure user authentication system that allows users to sign up, log in, and log out. The system should store user data securely in the SQL database and utilize JSON Web Tokens (JWT) for authentication and authorization.
 
 2. **Product Catalog**: Create a product catalog that displays a list of products with their names, images, descriptions, and prices. Users should be able to search and filter products based on categories or keywords.
 
