@@ -1,7 +1,7 @@
 **Grading Guide for E-Commerce Applications**
 
-Total Points: 40
-Passing Score: 32
+### Total Points: 40
+### Passing Score: 32
 *Note: Scoring 2 or lower on any section results in an immediate fail for the entire application.
 
 1. **User Authentication (4 points)**: The application successfully implements a secure user authentication system, including sign up, log in, and log out functionality.
