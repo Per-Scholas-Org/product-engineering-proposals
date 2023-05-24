@@ -521,8 +521,7 @@ console.log(totalPrice);
 
 In this example, we use a `for` loop to iterate over the items array. We define a `calculateTotal` function that accepts items and a discount rate as arguments. Inside the function, we declare a local variable `total` and an inner function `applyDiscount`. 
 
-
-### Advanced Real-world Example: Debounce Function
+## Advanced Real-world Example: Debounce Function
 
 A debounce function is a higher-order function that can be used to delay the execution of a function until after a specified time has passed since the last time it was called. This can be particularly useful for optimizing performance in events that fire frequently, such as window scrolling or resizing, and user input events like typing in a search box.
 
@@ -554,7 +553,6 @@ function logUserInput() {
 const debouncedLogUserInput = debounce(logUserInput, 300);
 
 document.getElementById("searchBox").addEventListener("input", debouncedLogUserInput);
-```
 
 In this example, the `debounce` function takes a `func` and a `wait` time as its arguments. It returns a new function that, when called, will clear any existing timeout and set a new one to call the original function after the specified `wait` time has passed. The closure allows the returned function to maintain access to the `func`, `wait`, timeout, context, and args variables even after the debounce function has finished executing.
 
@@ -565,7 +563,8 @@ When we use the `debouncedLogUserInput` function as an event listener for the in
 Frequency counters are a common problem-solving pattern used in programming, especially when it comes to comparing different data sets. 
 This pattern involves creating an object or array that stores the frequency of each element, allowing you to easily compare and manipulate the data.
 
-
+### Practice
+## Take the next 5-10 mins and work on the following:
 
 Example Problem
 
@@ -629,5 +628,15 @@ If the function has not returned false yet, it means the arrays satisfy the cond
 return true;
 ```
 
+
+
 Now you have a simple frequency counter function that can compare two arrays based on the given conditions. 
 This pattern is helpful for solving various problems efficiently, especially those related to data comparison and manipulation.
+
+
+### Additional Resources
+
+***See Below For more information on Loops & Functions***
+
+- [JS Functions: The Ultimate Guide](https://jsfunctions.io/)
+[- MDN Web Docs: Loops & Iteration](https://jsfunctions.io/)
