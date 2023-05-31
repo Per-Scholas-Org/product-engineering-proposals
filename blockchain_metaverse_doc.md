@@ -79,3 +79,47 @@ AAVE is a decentralized finance protocol that allows people to lend and borrow c
 
 By the end of this exercise, you should have a good understanding of how to navigate AAVE and OpenSea, as well as how to set up your own MetaMask wallet.
 
+
+## Assesment
+
+1. **Multiple Choice:** What is blockchain technology primarily used for?
+
+    a) Email communication
+    b) Graphic design
+    c) Securely storing and managing data
+    d) Online advertising
+
+2. **True or False:** Blockchain technology is only useful in the financial sector.
+
+3. **Multiple Choice:** Which company uses blockchain technology to provide transparency and traceability in their supply chain?
+
+    a) Apple
+    b) De Beers
+    c) Microsoft
+    d) Ford
+
+4. **Short Answer:** Describe in your own words how IBM's Food Trust blockchain enhances food safety.
+
+5. **True or False:** Blockchain records can easily be changed or hacked.
+
+6. **Multiple Choice:** What is the key feature of Maersk's TradeLens platform?
+
+    a) It provides graphic design services for shipping materials.
+    b) It provides a shared view of shipping transactions, improving interaction and information sharing among participants in the supply chain.
+    c) It offers an online platform for booking and tracking shipments.
+    d) It's a social media platform for employees in the shipping industry.
+
+7. **Short Answer:** Explain how blockchain technology can reduce costs associated with paperwork processing.
+
+8. **True or False:** MetaMask is a type of digital wallet used to store cryptocurrencies and interact with decentralized applications.
+
+9. **Multiple Choice:** What is one of the potential benefits of Aave, the DeFi protocol?
+
+    a) It allows users to earn interest on deposits.
+    b) It provides free email services.
+    c) It offers music streaming services.
+    d) It is a platform for video conferencing.
+
+10. **Short Answer:** Describe how OpenSea provides a marketplace for NFTs and how it is related to blockchain technology.
+
+Please provide clear and concise answers, and remember, there's no penalty for guessing if you're unsure about an answer. Good luck!
