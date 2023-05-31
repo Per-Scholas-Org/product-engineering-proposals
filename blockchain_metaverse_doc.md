@@ -18,15 +18,15 @@ Moreover, the transparency associated with blockchain technology is an essential
 
 We will now walk you through some real-world proposed examples of how businesses can start utilizing blockchain technology to improve their operations and customer experiences.
 
-**1. De Beers: Provenance Tracking**
+**1. De Beers: Provenance Tracking** https://www.coindesk.com/markets/2018/10/30/russian-diamond-giant-signs-onto-de-beers-blockchain-tracking-platform/
 
 De Beers, one of the largest diamond producers in the world, has adopted blockchain technology to improve transparency and provide proof of provenance for its gems. They've developed a blockchain platform named Tracr, which is used to track the journey of a diamond from the mine to the customer. By recording each step in a diamond’s path, they're able to provide a level of transparency that was previously unavailable in the diamond industry. This ensures customers that their diamond has been ethically sourced and that it is of the quality that De Beers claims it to be.
 
-**2. IBM: Food Safety**
+**2. IBM: Food Safety** https://www.ibm.com/products/supply-chain-intelligence-suite/food-trust
 
 IBM developed the Food Trust blockchain to enhance visibility and accountability in the food supply chain. This technology enables participating businesses to trace the supply chain journey of food products, providing consumers with more information about where their food comes from, and helping retailers and suppliers identify and address issues in the supply chain more quickly. For example, Walmart has utilized IBM’s blockchain to trace the source of food products, helping to manage and prevent food safety incidents.
 
-**3. Maersk: Supply Chain Management**
+**3. Maersk: Supply Chain Management** https://merehead.com/blog/maersk-blockchain-use-case/
 
 Maersk, the world's largest shipping company, partnered with IBM to create TradeLens, a blockchain-based platform for global trade. TradeLens provides a shared view of shipping transactions, creating a transparent and secure record of transactions. It allows all participants in the supply chain, including shippers, shipping lines, ports, and customs authorities, to interact and share information more effectively. This leads to reduced costs, improved efficiency, and less room for error or fraud.
 
