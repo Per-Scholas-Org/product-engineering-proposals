@@ -1,5 +1,17 @@
 ## Blockchain Demo: Per Scholas for Ed
 
+**Terminal Objectives:**
+
+1. Understand the concept of blockchain technology and its practical applications across industries.
+2. Recognize the benefits of blockchain in enhancing security, transparency, and cost-efficiency in business operations.
+3. Gain hands-on experience with blockchain-based platforms and tools like MetaMask, Aave, and OpenSea.
+
+**Enabling Objectives:**
+
+1. Explain the fundamental principles of blockchain technology.
+2. Identify real-world examples of blockchain implementation.
+3. Demonstrate the ability to navigate and use blockchain tools and platforms, such as creating a MetaMask wallet.
+
 **Introduction (Explanation - 5 minutes)**
 
 Good morning everyone, 
@@ -79,6 +91,7 @@ AAVE is a decentralized finance protocol that allows people to lend and borrow c
 
 By the end of this exercise, you should have a good understanding of how to navigate AAVE and OpenSea, as well as how to set up your own MetaMask wallet.
 
+<hr>
 
 ## Assesment
 
@@ -123,3 +136,22 @@ By the end of this exercise, you should have a good understanding of how to navi
 10. **Short Answer:** Describe how OpenSea provides a marketplace for NFTs and how it is related to blockchain technology.
 
 Please provide clear and concise answers, and remember, there's no penalty for guessing if you're unsure about an answer. Good luck!
+
+<hr>
+
+**Facilitator Guide:**
+
+The purpose of this lesson is to provide a comprehensive overview of blockchain technology and its applications in various industries. We aim to equip participants with a solid understanding of the concept, along with practical exposure through the creation of a MetaMask wallet and demonstrations of Aave and OpenSea platforms. The assessment, a combination of multiple-choice and short answer questions, serves to reinforce the knowledge imparted and ensure comprehension of the key aspects of the topic. This lesson aligns with the core mission of PerScholas, enhancing its commitment to providing cutting-edge tech education to its communities. Through the lesson and assessment, we hope to stimulate interest and encourage further exploration in the area of blockchain technology.
+
+**Answers to Assessment:**
+
+1. c) Securely storing and managing data
+2. False
+3. b) De Beers
+4. IBM's Food Trust blockchain enhances food safety by providing transparency and traceability in the food supply chain. This means that each step from the producer to the retailer is recorded and can be accessed, ensuring accountability and preventing issues like food fraud.
+5. False
+6. b) It provides a shared view of shipping transactions, improving interaction and information sharing among participants in the supply chain.
+7. Blockchain technology can reduce costs associated with paperwork processing by digitizing and automating processes, reducing the need for manual input and potential human error.
+8. True
+9. a) It allows users to earn interest on deposits.
+10. OpenSea provides a marketplace for NFTs by facilitating the buying, selling, and discovery of these digital assets. It is related to blockchain technology as each NFT is a unique token on the blockchain, representing ownership of a specific item or piece of content.
