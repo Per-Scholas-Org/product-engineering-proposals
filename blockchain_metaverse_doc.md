@@ -22,7 +22,7 @@ This digital technology is being embraced by organizations in numerous sectors, 
 
 At its core, a blockchain is a decentralized and distributed digital ledger of transactions that is secured using cryptography. The data in the blockchain is organized into 'blocks,' and every block is connected to the one before and after it, forming a 'chain'. What makes blockchain special is its resilience to data modification - once information is in the blockchain, it is extremely difficult to change or hack it.
 
-**Part 1: Blockchain and Business (Demonstration - 10 minutes)**
+**Part 1: Blockchain and Business (Demonstration - 10 minutes to explain but discuss at length)**
 
 Blockchain technology can foster secure digital identities and create tamper-resistant records. This quality makes it particularly useful for institutions dealing with sensitive information like medical records or financial transactions. Furthermore, it can significantly reduce costs related to paperwork processing and increase efficiency.
 
@@ -44,7 +44,7 @@ Maersk, the world's largest shipping company, partnered with IBM to create Trade
 
 These examples illustrate the varied and powerful ways that blockchain technology can be used to improve business operations across different industries.
 
-**Part 2: The Role of Blockchain at Per Scholas (Imitation - 10 minutes)**
+**Part 2: The Role of Blockchain at Per Scholas (Imitation - 10 minutes to explain, discuss at length)**
 
 Understanding and engaging with blockchain technology now prepares us to leverage the opportunities that this promising tool provides. As we strive to stay at the forefront of technological education, we must consider integrating lessons on blockchain technology into our curriculum. 
 
@@ -52,7 +52,7 @@ By doing so, we not only equip our learners with knowledge of a rapidly developi
 
 Let's consider how we can integrate blockchain technology into our daily operations and educational programs at Per Scholas.
 
-**Conclusion and Hands-on Exercise (Practice - 5 minutes)**
+**Conclusion and Hands-on Exercise (Practice - 5 minutes to explain, let them take as long as you have and discuss)**
 
 In conclusion, blockchain technology has emerged as a significant force in various sectors and is fast becoming an integral part of future business operations. By embracing blockchain technology, Per Scholas can ensure that we are prepared to utilize this potent tool when required.
 
