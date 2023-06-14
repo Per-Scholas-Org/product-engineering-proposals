@@ -1,4 +1,4 @@
-**Lesson: Understanding Metaverse Simulation Tools - Pokemon GO, Sword Art Online, and Oculus**
+**Lesson: Understanding Metaverse Simulation Tools in Pokemon GO, Sword Art Online, and Oculus**
 
 **Terminal Objectives:**
 1. To understand the concept of the Metaverse and its simulation tools.
